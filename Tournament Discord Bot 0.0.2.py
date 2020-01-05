@@ -1,11 +1,10 @@
 import discord
 import requests
 
-teamsDict = dict()
 teamHolder = list()
 tournamentCodeIndex = 0
 touramentCodeList = list()
-#DiscordServerid = 662831092549681192
+#DiscordServerid = 
 
 
 class Player():
@@ -287,7 +286,7 @@ def getTournCode():
     return touramentCodeList[tournamentCodeIndex]
 
 client = MyClient()
-client.run("NjYyODMwMzk0NTE2NzAxMjMz.Xg_wsA.XVPq4ain1vEHB4ZM4ZGVW_O4_iI")
+client.run("")
 
 #Author: Vincent Truong
 #Date: 1/5/2020
