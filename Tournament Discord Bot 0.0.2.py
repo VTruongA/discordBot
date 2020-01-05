@@ -288,3 +288,6 @@ def getTournCode():
 
 client = MyClient()
 client.run("NjYyODMwMzk0NTE2NzAxMjMz.Xg_wsA.XVPq4ain1vEHB4ZM4ZGVW_O4_iI")
+
+#Author: Vincent Truong
+#Date: 1/5/2020
